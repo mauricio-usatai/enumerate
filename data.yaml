@@ -1,0 +1,5 @@
+functions:
+  gcp:
+    - name: "json-bin"
+      url: "https://json-bucket-api-264293965162.us-central1.run.app"
+
